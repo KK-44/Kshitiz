@@ -1,5 +1,5 @@
 baseURL = "https://kshitiz-khadka.netlify.app/"
-title = "Your title"
+title = "Your"
 themesDir = "../.."
 theme = "m10c"
 paginate = 5
